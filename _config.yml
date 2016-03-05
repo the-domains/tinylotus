@@ -1,0 +1,14 @@
+layout_spectrum: 0.886681
+color:
+  saturation: 0.4682355
+  lightness: 0.4382901
+  brandStrength: 0.7642052
+  brandColors:
+    - '#EAD8B4'
+    - '#C6C688'
+    - '#FEDFE9'
+    - '#A2814A'
+    - '#2F3002'
+  rhythmicContrast: 0.3225241
+typography_spectrum: 0.8641245
+name: TinyLotus
